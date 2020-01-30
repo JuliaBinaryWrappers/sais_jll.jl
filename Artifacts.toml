@@ -1,0 +1,113 @@
+[[sais]]
+arch = "i686"
+git-tree-sha1 = "1700461c88142dd95297664b59d3f7ba323022f7"
+libc = "glibc"
+os = "linux"
+
+    [[sais.download]]
+    sha256 = "59ce35a2504a60c2bf5413c30eb26df3b1d0c02c0d5cd4df5c214733ae13d111"
+    url = "https://github.com/JuliaBinaryWrappers/sais_jll.jl/releases/download/sais-v2.4.1+0/sais.v2.4.1.i686-linux-gnu.tar.gz"
+[[sais]]
+arch = "i686"
+git-tree-sha1 = "0027447b676047b1a19da134718a522d6a8889ab"
+libc = "musl"
+os = "linux"
+
+    [[sais.download]]
+    sha256 = "84cfe9250cc58ef865e10d8b27cf9506ebdf10d51c68ff38fd3bdfa74267f614"
+    url = "https://github.com/JuliaBinaryWrappers/sais_jll.jl/releases/download/sais-v2.4.1+0/sais.v2.4.1.i686-linux-musl.tar.gz"
+[[sais]]
+arch = "x86_64"
+git-tree-sha1 = "6b18fbf1f8fcdd05d0a9c9bce5e54ba133f839e0"
+os = "macos"
+
+    [[sais.download]]
+    sha256 = "cea6cc0b6d43a925663208f6237e3a9831233a7e233d01fda9da6ae802695827"
+    url = "https://github.com/JuliaBinaryWrappers/sais_jll.jl/releases/download/sais-v2.4.1+0/sais.v2.4.1.x86_64-apple-darwin14.tar.gz"
+[[sais]]
+arch = "powerpc64le"
+git-tree-sha1 = "ab569100f51b4c27f0c5c50e03328cb2240cb9b0"
+libc = "glibc"
+os = "linux"
+
+    [[sais.download]]
+    sha256 = "603812ee4ae876840cb6b1940ad24c67c12176c4608324714964ab195ae3c151"
+    url = "https://github.com/JuliaBinaryWrappers/sais_jll.jl/releases/download/sais-v2.4.1+0/sais.v2.4.1.powerpc64le-linux-gnu.tar.gz"
+[[sais]]
+arch = "aarch64"
+git-tree-sha1 = "0d68014872aa9ea1fbe7381c4c335980056ddf4c"
+libc = "glibc"
+os = "linux"
+
+    [[sais.download]]
+    sha256 = "d3b9fa618f7b5a9c48be6655015f00ac3f516850defa5968aba0f732ba766ea9"
+    url = "https://github.com/JuliaBinaryWrappers/sais_jll.jl/releases/download/sais-v2.4.1+0/sais.v2.4.1.aarch64-linux-gnu.tar.gz"
+[[sais]]
+arch = "x86_64"
+git-tree-sha1 = "28c9e87442dd8964580720a788c61bd8fa2e4f30"
+libc = "musl"
+os = "linux"
+
+    [[sais.download]]
+    sha256 = "8b40f38a80627a709a1f8caef92936a6f4c1bd05d978589efeb44793b92f5752"
+    url = "https://github.com/JuliaBinaryWrappers/sais_jll.jl/releases/download/sais-v2.4.1+0/sais.v2.4.1.x86_64-linux-musl.tar.gz"
+[[sais]]
+arch = "aarch64"
+git-tree-sha1 = "deabf30ea7e710650aa1563ae4dd901cd5bac2c2"
+libc = "musl"
+os = "linux"
+
+    [[sais.download]]
+    sha256 = "f6cbfa77e75b60275d439e0c0ad5398be48ed618ecf0f9c50a893ea53aad96d1"
+    url = "https://github.com/JuliaBinaryWrappers/sais_jll.jl/releases/download/sais-v2.4.1+0/sais.v2.4.1.aarch64-linux-musl.tar.gz"
+[[sais]]
+arch = "armv7l"
+git-tree-sha1 = "14c6a935d718c4f95bc16b20f5b45ae11b6838c0"
+libc = "musl"
+os = "linux"
+
+    [[sais.download]]
+    sha256 = "94e1ea2e1d6c1864b8d6bfdd774e0c8dc50a81a05837bc190e5fdca010c92331"
+    url = "https://github.com/JuliaBinaryWrappers/sais_jll.jl/releases/download/sais-v2.4.1+0/sais.v2.4.1.arm-linux-musleabihf.tar.gz"
+[[sais]]
+arch = "i686"
+git-tree-sha1 = "eb45baff5c16a2c7bdf668d027b7023fd1d4e36c"
+os = "windows"
+
+    [[sais.download]]
+    sha256 = "78254a04867309e5a759351018bda80bea5abfad9976a65fc836b00f97434311"
+    url = "https://github.com/JuliaBinaryWrappers/sais_jll.jl/releases/download/sais-v2.4.1+0/sais.v2.4.1.i686-w64-mingw32.tar.gz"
+[[sais]]
+arch = "x86_64"
+git-tree-sha1 = "9e58a6c0451361e247f02f39ca617ccc773138fe"
+os = "freebsd"
+
+    [[sais.download]]
+    sha256 = "ebc90e6ecbe58f0d0c62a105dd847c77a0f404c09d1d7a80bee370c7ceb61330"
+    url = "https://github.com/JuliaBinaryWrappers/sais_jll.jl/releases/download/sais-v2.4.1+0/sais.v2.4.1.x86_64-unknown-freebsd11.1.tar.gz"
+[[sais]]
+arch = "armv7l"
+git-tree-sha1 = "912b40d55e58d0b0c2fe69fdf7a5d63b616a87cf"
+libc = "glibc"
+os = "linux"
+
+    [[sais.download]]
+    sha256 = "24b22d3fd94eb3feff8885d8eb86707f95949dcdfe2b02978593638ebbf99926"
+    url = "https://github.com/JuliaBinaryWrappers/sais_jll.jl/releases/download/sais-v2.4.1+0/sais.v2.4.1.arm-linux-gnueabihf.tar.gz"
+[[sais]]
+arch = "x86_64"
+git-tree-sha1 = "c94e3bc03ecc28492c537a7e3eee050c0221b40d"
+libc = "glibc"
+os = "linux"
+
+    [[sais.download]]
+    sha256 = "5b5f91129fd77e1c06296f203a5a4a10d2e046d962c3ec2167a3ef1b24978d86"
+    url = "https://github.com/JuliaBinaryWrappers/sais_jll.jl/releases/download/sais-v2.4.1+0/sais.v2.4.1.x86_64-linux-gnu.tar.gz"
+[[sais]]
+arch = "x86_64"
+git-tree-sha1 = "aca0d79ba8923eaef00094e9ac6f385e5ad776ad"
+os = "windows"
+
+    [[sais.download]]
+    sha256 = "48994a1346b97a50867db4eb410b355ebe553cf98f80fc47085636c69a8f1df9"
+    url = "https://github.com/JuliaBinaryWrappers/sais_jll.jl/releases/download/sais-v2.4.1+0/sais.v2.4.1.x86_64-w64-mingw32.tar.gz"
